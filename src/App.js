@@ -96,7 +96,7 @@ function App() {
 </div>
     <Button color="danger">danger</Button>
 
-    //dropdown from reactstrap library
+    {/* //dropdown from reactstrap library */}
 
     {/* <UncontrolledDropdown>
       <DropdownToggle caret color="dark">
@@ -128,7 +128,7 @@ function App() {
       </DropdownMenu>
     </UncontrolledDropdown> */}
 
-    // card example from reactstrap library
+    {/* // card example from reactstrap library */}
 
 
     {/* <Card
